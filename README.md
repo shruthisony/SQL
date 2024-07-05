@@ -1,2 +1,1 @@
-# SQL
 SQL Codes
